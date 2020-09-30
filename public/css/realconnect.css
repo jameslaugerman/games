@@ -1,0 +1,49 @@
+/* table {
+    background-color: yellow;
+} */
+
+
+
+th.p1:hover {
+    background-image: url("/imgs/yellowtop.jpeg");
+    color: transparent;
+    background-size: 100%;
+    line-height: 65px;
+}
+
+th:hover {
+    background-image: url("/imgs/redtop.jpg");
+    color: transparent;
+    background-size: 100%;
+    line-height: 65px;
+}
+
+th{
+    color: transparent;
+}
+
+h1 {
+    background-color: whitesmoke;
+}
+
+.red {
+    background-image: url("/imgs/red.png");
+    color: transparent;
+    background-size: cover;
+    line-height: 65px;
+}
+
+.yellow {
+    background-image: url("/imgs/yellow.png");
+    color: transparent;
+    background-size: cover;
+    line-height: 65px;
+}
+
+.game {
+   background-image: url("/imgs/white.png");
+   color: transparent;
+   background-size: cover;
+   line-height: 65px;
+ 
+}
